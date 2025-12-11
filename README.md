@@ -25,3 +25,7 @@ This is test section 2
 ## Test section 3
 
 This is test section 3
+
+### Copyright
+
+Copyright 2014 Git
