@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 This is some deployment text
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Request
+
 ## YASD
 
 This is some YASD text
