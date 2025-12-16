@@ -16,6 +16,10 @@ This is some deployment text
 
 Please fork this repository and then issue Pull Request
 
+### Copyright
+
+2014 Git.Training, All rights reserved.
+
 ## YASD
 
 This is some YASD text
